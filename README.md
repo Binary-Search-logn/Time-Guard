@@ -20,7 +20,7 @@
 ------------------------------
 ## NEW FEATURES 🚀 v2.0.0
 
-Time Guard is a mobile application developed using `flutter` to monitor the time kids
+Time Guard is a mobile application developed using `Kotlin` to monitor the time kids
 spend on screen.So far the app is only available on Android. The app can't run on iOS devices.
 The application has for sole purpose to track and record the data from the child's
 device and send it to parents. The application does not violate the `privacy policies`
